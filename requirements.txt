@@ -1,3 +1,9 @@
 streamlit
 Pypdf2
 pandas
+openpyxl
+PyMuPDF
+opencv-python
+camelot-py[cv]
+numpy
+
